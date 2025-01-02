@@ -34,7 +34,7 @@ This program identifies the longest and second-longest compounded words from a g
 
 3. **Run the Script**:
    ```bash
-   python3 compounded_words.py
+   python main.py
    ```
 
 4. **View Results**:
